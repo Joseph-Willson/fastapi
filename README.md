@@ -4,9 +4,9 @@ Petite application web pour créer et consulter des items (nom, prix, stock). Le
 
 ## 🌐 Démo en ligne
 
-- **Interface** : [URL de ton app Streamlit]
-- **API** : [URL de ton API Render]
-- **Documentation interactive de l'API** : [URL de ton API Render]/docs
+- **Interface** : https://fastapi-62hiwkcyspuvftwskudb7x.streamlit.app/
+- **API** : https://fastapi-j708.onrender.com
+- **Documentation interactive de l'API** : https://fastapi-j708.onrender.com/docs
 
 > ⚠️ L'API est hébergée sur l'offre gratuite de Render : elle se met en veille après 15 minutes d'inactivité. La première requête peut donc prendre environ une minute. Les données sont stockées en mémoire et sont réinitialisées à chaque redémarrage.
 
